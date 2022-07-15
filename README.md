@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5016&color=0847DF&multiline=true&lines=Hi%2C+welcome+to+to+my+Github+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5016&color=0847DF&multiline=true&lines=Hi%2C+welcome+to+my+Github+)](https://git.io/typing-svg)
 #     Nafiso Aden
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently at School Of Code bootcamp 12
