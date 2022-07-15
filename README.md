@@ -1,12 +1,13 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5016&color=0847DF&multiline=true&lines=Hi%2C+welcome+to+to+my+Github+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE76F7&width=401&height=51&lines=welcome+to+my+Github)](https://git.io/typing-svg)
-
-
-
+- 🌱 I’m currently at school of code 
 
 
-skills - 
-[![My Skills](https://skillicons.dev/icons?i=aws,nodejs,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,git,typescript,postgresql,javascript,jest,html,css,&perline=10)](https://skillicons.dev)
 
 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 <!--
