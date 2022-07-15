@@ -3,6 +3,7 @@
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently at School Of Code bootcamp 12
 - 🔭 I’m will be documenting my projects on here
+- Junior Full Stack Developer
 
 # Skills
 
