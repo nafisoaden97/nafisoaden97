@@ -7,7 +7,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,git,typescript,postgresql,javascript,jest,html,css,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,git,typescript,postgresql,figma,javascript,jest,html,css,&perline=5)](https://skillicons.dev)
 
 	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 <!--
