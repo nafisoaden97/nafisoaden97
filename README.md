@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5016&color=0847DF&multiline=true&lines=Hi%2C+welcome+to+to+my+Github+)](https://git.io/typing-svg)
 
-- 🌱 I’m currently at school of code 
+🌱 I’m currently at School Of Code completing a 16week program learning JavaScript, PostgreSQL, React ,Nodejs, Express. 
+
 
 
 
