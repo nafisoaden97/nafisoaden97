@@ -28,6 +28,7 @@
 
 ### Connect with me 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nafisacodes.svg?style=social&label=Follow%20%40nafisacodes)](https://twitter.com/nafisacodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue")](https://www.linkedin.com/in/nafiso-aden-758757223/)
 
 
 
