@@ -25,6 +25,8 @@
 ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+![Codewars](https://img.shields.io/badge/-Codewars-05122A?style=flat&logo=Codewars)&nbsp;
+
 
 ### Connect with me 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nafisacodes.svg?style=social&label=Follow%20%40nafisacodes)](https://twitter.com/nafisacodes)
