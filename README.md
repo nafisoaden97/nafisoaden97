@@ -6,7 +6,7 @@
 
 - 😄 previously i was a nurse however, i'm now an aspiring full stack developer based in Birmimngham UK. 
 - 🌱 I’m currently at School Of Code bootcamp 12.
-- 🔭 I’m will be documenting all my projects i've done to develope my skills and knoweldge on here. 
+- 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweldge on here. 
 
 # Tech Stack 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,11 +26,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 
-
-
-
-
-
+### Connect with me 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nafisacodes.svg?style=social&label=Follow%20%40nafisacodes)](https://twitter.com/nafisacodes)
 
 
 
