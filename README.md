@@ -24,7 +24,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=Miro)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 ![Codewars](https://img.shields.io/badge/-Codewars-05122A?style=flat&logo=Codewars)&nbsp;
 
 
@@ -45,6 +44,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs,git,typescript,postgresql,figma,javascript,jest,html,css,&perline=11)](https://skillicons.dev)
