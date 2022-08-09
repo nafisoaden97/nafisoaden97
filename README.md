@@ -4,7 +4,7 @@
 
 
 
-- 😄 I was previously i was a nurse and now i'm an aspiring full stack developer based in Birmimngham UK. 
+- 😄  i'm an aspiring full stack developer based in Birmimngham UK. 
 - 🌱 I’m currently at School Of Code bootcamp 12.
 - 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweldge on here. 
 
