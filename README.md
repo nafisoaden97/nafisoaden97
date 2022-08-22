@@ -6,7 +6,7 @@
 
 - 😄  i'm an aspiring full Stack Junior Developer based in Birmimngham UK. 
 - 🌱 I’m currently at School Of Code bootcamp 12.
-- 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweldge on here. 
+- 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweledge on here. 
 
 # Tech Stack 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
