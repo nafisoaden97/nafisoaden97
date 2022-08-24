@@ -5,7 +5,7 @@
 
 
 - 😄  i'm an aspiring full Stack Junior Developer based in Birmimngham UK. 
-- 🌱 I’m currently at School Of Code bootcamp 12.
+- 🌱 I’ve recently graduate from School Of Code 16 week bootcamp.
 - 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweledge on here. 
 
 # Tech Stack 
