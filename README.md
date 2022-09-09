@@ -4,7 +4,7 @@
 
 
 
-- 😄  i'm a Junior Developer based in Birmimngham UK. 
+- 👩🏽‍💻 i'm a Junior Developer based in Birmimngham UK. 
 - 🌱 I’ve recently graduate from School Of Code 16 week bootcamp.
 - 🔭 I’m will be documenting all my projects i've done to develop my skills and knoweledge on here. 
 
